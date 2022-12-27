@@ -69,7 +69,7 @@ templates:
 #template-id:
 
 # templates to exclude based on template ids (comma-separated, file)
-exclude-id: CVE-2021-24891,CVE-2022-29455,CVE-2017-5487,wildcard-postmessage,netlify-takeover,xss-deprecated-header,php-errors,graphql-get-method,jira-unauthenticated-dashboards,email-extractor,sap-netweaver-info-leak,wp-debug-log,debug-vars,unauthenticated-varnish-cache-purge,aem-gql-servlet,prometheus-metrics,springboot-loggers,github-takeover,aws-object-listing,CVE-2019-12616,wix-takeover
+exclude-id: CVE-2021-24891,CVE-2022-29455,CVE-2017-5487,wildcard-postmessage,netlify-takeover,xss-deprecated-header,php-errors,graphql-get-method,jira-unauthenticated-dashboards,email-extractor,sap-netweaver-info-leak,wp-debug-log,debug-vars,unauthenticated-varnish-cache-purge,aem-gql-servlet,prometheus-metrics,springboot-loggers,github-takeover,aws-object-listing,CVE-2019-12616,wix-takeover,CVE-2001-1473
 
 # templates to be executed even if they are excluded either by default or configuration
 #include-templates:
